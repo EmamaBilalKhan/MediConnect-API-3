@@ -1,0 +1,132 @@
+{
+    "Doctors": [
+        {
+          "name": "Dr. Emily Johnson",
+          "email": "emily.johnson@example.com",
+          "password": "securePass1",
+          "contact": "+1 555-1234",
+          "roomno": "101",
+          "designation": "Senior Cardiologist",
+          "qualification": "MD, FACG",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
+          "schedule": [
+            {"date": "2024-10-01","day":"Tuesday", "slots": ["09:00 am - 10:00 am", "11:00 am - 12:00 am", "02:00 pm - 03:00 pm"]},
+            {"date": "2024-10-02","day":"Wednesday", "slots": ["10:00 am - 11:00 am", "01:00 pm - 02:00 pm", "03:00 pm - 04:00 pm"]},
+            {"date": "2024-10-03","day":"Thursday", "slots": ["10:00 am - 11:00 am", "01:00 pm - 02:00 pm", "03:00 pm - 04:00 pm"]},
+            {"date": "2024-10-04","day":"Friday", "slots": ["10:00 am - 11:00 am", "01:00 pm - 02:00 pm"]}
+          ]
+        },
+        {
+          "name": "Dr. Michael Chen",
+          "email": "michael.chen@example.com",
+          "password": "securePass2",
+          "contact": "+1 555-2345",
+          "roomno": "202",
+          "designation": "Neurologist",
+          "qualification": "MD, FASCO",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgv_K75syaSiaxXGVBUykElNB9uD1Le4d8w&s",
+          "schedule": [
+            {"date": "2024-10-01","day":"Tuesday", "slots": ["08:00 am - 09:00 am", "10:00 am - 11:00 am"]},
+            {"date": "2024-10-03","day":"Thursday", "slots": ["09:00 am - 10:00 am", "11:00 am - 12:00 pm", "02:00 pm - 03:00 pm"]}
+          ]
+        },
+        {
+          "name": "Dr. Sarah Thompson",
+          "email": "sarah.thompson@example.com",
+          "password": "securePass3",
+          "contact": "+1 555-3456",
+          "roomno": "303",
+          "designation": "Pediatrician",
+          "qualification": "MD, FAPA",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
+          "schedule": [
+            {"date": "2024-10-02","day":"Wednesday", "slots": ["09:00 am - 10:00 am", "11:00 am - 12:00 pm", "02:00 pm - 03:00 pm"]},
+            {"date": "2024-10-04","day":"Friday", "slots": ["10:00 am - 11:00 am", "01:00 pm - 02:00 pm", "03:00 pm - 04:00 pm"]}
+          ]
+        },
+        {
+          "name": "Dr. David Rodriguez",
+          "email": "david.rodriguez@example.com",
+          "password": "securePass4",
+          "contact": "+1 555-4567",
+          "roomno": "404",
+          "designation": "Orthopedic Surgeon",
+          "qualification": "MD, FAAOS",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ43pA5ohSHvxkSP_0VAxPy8GZAUgDydGQ8kyYZewhxXpYtRoL8SSHfQtpruehLB29Ls&usqp=CAU",
+          "schedule": [
+            {"date": "2024-10-01","day":"Tuesday", "slots": ["08:00 am - 09:00 am", "10:00 am - 11:00 am", "02:00 pm - 03:00 pm"]},
+            {"date": "2024-10-03","day":"Thursday", "slots": ["09:00 am - 10:00 am", "11:00 am - 12:00 pm"]}
+          ]
+        },
+        {
+          "name": "Dr. Lisa Patel",
+          "email": "lisa.patel@example.com",
+          "password": "securePass5",
+          "contact": "+1 555-5678",
+          "roomno": "505",
+          "designation": "Dermatologist",
+          "qualification": "MD, FAAD",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
+          "schedule": [
+            {"date": "2024-10-02","day":"Wednesday", "slots": ["10:00 am - 11:00 am", "01:00 pm - 02:00 pm"]},
+            {"date": "2024-10-04","day":"Friday", "slots": ["09:00 am - 10:00 am", "11:00 am - 12:00 pm", "02:00 pm - 03:00 pm"]}
+          ]
+        },
+        {
+          "name": "Dr. James Wilson",
+          "email": "james.wilson@example.com",
+          "password": "securePass6",
+          "contact": "+1 555-6789",
+          "roomno": "606",
+          "designation": "Gastroenterologist",
+          "qualification": "MD, FACG",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgv_K75syaSiaxXGVBUykElNB9uD1Le4d8w&s",
+          "schedule": [
+            {"date": "2024-10-01","day":"Tuesday", "slots": ["09:00 am - 10:00 am", "11:00 am - 12:00 pm"]},
+            {"date": "2024-10-03","day":"Thursday", "slots": ["10:00 am - 11:00 am", "01:00 pm - 02:00 pm", "03:00 pm - 04:00 pm"]}
+          ]
+        },
+        {
+          "name": "Dr. Maria Garcia",
+          "email": "maria.garcia@example.com",
+          "password": "securePass7",
+          "contact": "+1 555-7890",
+          "roomno": "707",
+          "designation": "Ophthalmologist",
+          "qualification": "MD, FACS",
+          "image": "https://www.shutterstock.com/image-photo/portrait-friendly-person-folded-hands-600nw-1918037159.jpg",
+          "schedule": [
+            {"date": "2024-10-02","day":"Wednesday", "slots": ["08:00 am - 09:00 am", "10:00 am - 11:00 am", "02:00 pm - 03:00 pm"]},
+            {"date": "2024-10-04","day":"Friday", "slots": ["09:00 am - 10:00 am", "11:00 am - 12:00 pm"]}
+          ]
+        },
+        {
+          "name": "Dr. Robert Kim",
+          "email": "robert.kim@example.com",
+          "password": "securePass8",
+          "contact": "+1 555-8901",
+          "roomno": "808",
+          "designation": "Psychiatrist",
+          "qualification": "MD, FAPA",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ43pA5ohSHvxkSP_0VAxPy8GZAUgDydGQ8kyYZewhxXpYtRoL8SSHfQtpruehLB29Ls&usqp=CAU",
+          "schedule": [
+            {"date": "2024-10-01","day":"Tuesday", "slots": ["10:00 am - 11:00 am", "01:00 pm - 02:00 pm", "03:00 pm - 04:00 pm"]},
+            {"date": "2024-10-03","day":"Thursday", "slots": ["09:00 am - 10:00 am", "11:00 am - 12:00 pm"]}
+          ]
+        },
+        {
+          "name": "Dr. Jennifer Lee",
+          "email": "jennifer.lee@example.com",
+          "password": "securePass9",
+          "contact": "+1 555-9012",
+          "roomno": "909",
+          "designation": "Endocrinologist",
+          "qualification": "MD, FACE",
+          "image": "https://media.istockphoto.com/id/1372002650/photo/cropped-portrait-of-an-attractive-young-female-doctor-standing-with-her-arms-folded-in-the.jpg?s=612x612&w=0&k=20&c=o1QtStNsowOU0HSof6xQ_jZMglU8ZK565gHd655U6S4=",
+          "schedule": [
+            {"date": "2024-10-02","day":"Wednesday", "slots": ["09:00 am - 10:00 am", "11:00 am - 12:00 pm"]},
+            {"date": "2024-10-04","day":"Friday", "slots": ["10:00 am - 11:00 am", "01:00 pm - 02:00 pm", "03:00 pm - 04:00 pm"]}
+          ]
+        }
+      ] 
+}
